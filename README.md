@@ -47,7 +47,7 @@ Pastikan sesuai dengan kebutuhan. Karena tools masih dalam pengembangan ini saya
    ```sh
    python -m venv venv
    source venv/bin/activate  # Untuk Unix atau MacOS
-   .venv\Scripts\activate  # Untuk Windows
+   .\venv\Scripts\activate  # Untuk Windows
    ```
 5. Instal paket yang diperlukan
    ```sh
