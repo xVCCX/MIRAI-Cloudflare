@@ -68,14 +68,6 @@ python mirai.py
 
 Setelah itu tinggal pilih opsi yang anda inginkan . Fungsi akan terus update selama projek ini dikembangkan.
 
-## Roadmap
-
-- [x] Manajemen catatan DNS dasar
-- [x] Pengaturan Force HTTPS
-- [x] Tambah dan hapus domain  
-- [ ] Dukungan untuk manajemen Page Rules
-- [ ] Cloudflare Workers
-
 ## Lisensi
 
 Didistribusikan di bawah Lisensi MIT. Lihat `LICENSE.txt` untuk informasi lebih lanjut.
